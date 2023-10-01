@@ -1,0 +1,938 @@
+location,date,vaccine,source_url,total_vaccinations,Actual_Total_Vaccinations,people_vaccinated,Actual_People_Vaccinated,people_fully_vaccinated,total_boosters
+India,15-01-2021,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350459098203004927,0,,0,0,0,
+India,16-01-2021,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350459098203004928,191181,191181,191181,191181,0,
+India,17-01-2021,"Covaxin, Oxford/AstraZeneca",https://twitter.com/MoHFW_INDIA/status/1350815129177260034,224301,33120,224301,33120,0,
+India,18-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,454049,229748,454049,229748,0,
+India,19-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,674835,220786,674835,220786,0,
+India,20-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,806484,131649,806484,131649,0,
+India,21-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1043534,237050,1043534,237050,0,
+India,22-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1390592,347058,1390592,347058,0,
+India,23-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1582201,191609,1582201,191609,0,
+India,24-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,1615504,33303,1615504,33303,0,
+India,25-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2023809,408305,2023809,408305,0,
+India,26-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2029480,5671,2029480,5671,0,
+India,27-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2355979,326499,2355979,326499,0,
+India,28-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,2928053,572074,2928053,572074,0,
+India,29-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3500027,571974,3500027,571974,0,
+India,30-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3744334,244307,3744334,244307,0,
+India,31-01-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3758843,14509,3758843,14509,0,
+India,01-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,3950156,191313,3950156,191313,0,
+India,02-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4138918,188762,4138918,188762,0,
+India,03-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4449552,310634,4449552,310634,0,
+India,04-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,4959445,509893,4959445,509893,0,
+India,05-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5416849,457404,5416849,457404,0,
+India,06-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5775322,358473,5775322,358473,0,
+India,07-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,5812362,37040,5812362,37040,0,
+India,08-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,6259008,446646,6259008,446646,0,
+India,09-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,6611561,352553,6611561,352553,0,
+India,10-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7017114,405553,7017114,405553,0,
+India,11-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7505010,487896,7505010,487896,0,
+India,12-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/,7967647,462637,7967647,462637,0,
+India,13-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1697804,8052454,84807,8044786,77139,7668,
+India,15-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698251,8516771,464317,8418653,373867,98118,
+India,16-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698525,8857341,340570,8641002,222349,216339,
+India,17-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1698832,9186757,329416,8844641,203639,342116,
+India,18-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699157,9846523,659766,9381591,536950,464932,
+India,19-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699476,10449942,603419,9693000,311409,756942,
+India,20-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699698,10838323,388381,9964383,271383,873940,
+India,21-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1699735,11085173,246850,10124531,160148,960642,
+India,22-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700035,11424094,338921,10308552,184021,1115542,
+India,23-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700269,11907392,483298,10585757,277205,1321635,
+India,24-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700553,12366633,459241,10884879,299122,1481754,
+India,25-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1700888,13067047,700414,11206188,321309,1860859,
+India,26-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1701203,13756940,689893,11552857,346669,2204083,
+India,27-02-2021,"Covaxin, Oxford/AstraZeneca",https://pib.gov.in/PressReleseDetailm.aspx?PRID=1701292,14242547,485607,11788669,235812,2453878,
+India,28-02-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/pdf/CumulativeCovidVaccinationCoverageReportDay43ason28thFebat7am.pdf,14301266,58719,11845075,56406,2456191,
+India,01-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport2ndMarch2021.pdf,14854136,552870,12256337,411262,2597799,
+India,02-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport2March2021.pdf,15620749,766613,12906771,650434,2713978,
+India,03-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport3rdMarch2021.pdf,16616048,995299,13739121,832350,2876927,
+India,04-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCoverageReport4thMarch2021.pdf,18005503,1389455,14796835,1057714,3208668,
+India,05-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport5thMarch2021.pdf,19497704,1492201,15996683,1199848,3501021,
+India,06-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport6thMarch2021.pdf,20922344,1424640,17168303,1171620,3754041,
+India,07-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage7thMarch2021.pdf,20989010,66666,17227903,59600,3761107,
+India,08-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport8thMarch2021.pdf,23008733,2019723,18943283,1715380,4065450,
+India,09-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport9thMarch2021.pdf,24367906,1359173,20004227,1060944,4363679,
+India,10-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport10thMarch2021.pdf,25685011,1317105,21034481,1030254,4650530,
+India,11-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationCoverageReport11thMarch2021.pdf,26164920,479909,21435841,401360,4729079,
+India,12-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport12thMarch2021.pdf,28218457,2053537,23075504,1639663,5142953,
+India,13-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport13thMarch2021.pdf,29738409,1519952,24307635,1232131,5430774,
+India,14-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationreport14thMarch2021.pdf,29908038,169629,24452385,144750,5455653,
+India,15-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport15thMarch2021.pdf,32947432,3039394,27079484,2627099,5867948,
+India,16-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage16thMarch2021.pdf,35064536,2117104,28862037,1782553,6202499,
+India,17-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport17thMarch2021.pdf,37143255,2078719,30600787,1738750,6542468,
+India,18-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage18thMarch2021.pdf,39339817,2196562,32426230,1825443,6913587,
+India,19-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage19thMarch2021.pdf,42063392,2723575,34842030,2415800,7221362,
+India,20-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport20thMarch2021.pdf,44603841,2540449,37125187,2283157,7478654,
+India,21-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverage21stMarch2021.pdf,45065998,462157,37574302,449115,7491696,
+India,22-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport22ndMarch2021.pdf,48494594,3428596,40631153,3056851,7863441,
+India,23-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport24thMarch2021.pdf,50841286,2346692,42731952,2100799,8109334,
+India,24-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport24thMarch2021.pdf,53145709,2304423,44846538,2114586,8299171,
+India,25-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoveragereport25thMarch2021.pdf,55504440,2358731,47001472,2154934,8502968,
+India,26-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoveragereport26thMarch2021.pdf,58109773,2605333,49426618,2425146,8683155,
+India,27-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport27thMarch2021.pdf,60269782,2160009,51441436,2014818,8828346,
+India,28-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport28thMarch2021.pdf,60530435,260653,51660234,218798,8870201,
+India,29-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationcoveragereport29thMarch2021.pdf,61113354,582919,52211398,551164,8901956,
+India,30-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport30thMarch2021.pdf,63054353,1940999,53989035,1777637,9065318,
+India,31-03-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport31stMarch2021.pdf,65117896,2063543,55783201,1794166,9334695,
+India,01-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport1stApril2021.pdf,68789138,3671242,59148798,3365597,9640340,
+India,02-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageREport2ndApril2021.pdf,73054295,4265157,63081589,3932791,9972706,
+India,03-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDvaccinationcoveragereport3rdApril2021.pdf,75979651,2925356,65739470,2657881,10240181,
+India,04-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport4thApril2021.pdf,79105163,3125512,68678838,2939368,10426325,
+India,05-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport5thApril2021.pdf,83110926,4005763,72277309,3598471,10833617,
+India,06-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationReport6thApril2021.pdf,87077474,3966548,75937015,3659706,11140459,
+India,07-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageReport7thApril2021.pdf,90198673,3121199,78763027,2826012,11435646,
+India,08-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageREport8thApril2021.pdf,94334262,4135589,82456522,3693495,11877740,
+India,09-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCOverageReport9thApril2021.pdf,98075160,3740898,85763852,3307330,12311308,
+India,10-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport10thApril2021.pdf,101595147,3519987,88885961,3122109,12709186,
+India,11-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport11thApril2021.pdf,104528565,2933418,91587400,2701439,12941165,
+India,12-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport12April2021.pdf,108533085,4004520,95043039,3455639,13490046,
+India,13-04-2021,"Covaxin, Oxford/AstraZeneca",https://www.mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport13thApril2021.pdf,111179578,2646493,97301914,2258875,13877664,
+India,14-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport14thApril2021.pdf,114493238,3313660,100179199,2877285,14314039,
+India,15-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport15thApril2021.pdf,117223509,2730271,102349255,2170056,14874254,
+India,16-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport16thApril2021.pdf,119937641,2714132,104408484,2059229,15529157,
+India,17-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport17thApril2021.pdf,122622590,2684949,106431076,2022592,16191514,
+India,18-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport18thApril2021.pdf,123852566,1229976,107371770,940694,16480796,
+India,19-04-2021,"Covaxin, Oxford/AstraZeneca",http://mohfw.gov.in/pdf/CumulativeCOVIDVaccinationCoverageReport19thApril2021.pdf,127129113,3276547,109659181,2287411,17469932,
+India,21-04-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,129646105,2516992,111673361,2014180,17972744,
+India,22-04-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,132754608,3108503,113584269,1910908,19170339,
+India,25-04-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,139185173,6430565,117795008,4210739,21390165,
+India,26-04-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,142524947,3339774,119886252,2091244,22638695,
+India,27-04-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,144879233,2354286,121263287,1377035,23615946,
+India,28-04-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,147053392,2174159,122538179,1274892,24515213,
+India,29-04-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,149268772,2215380,123811908,1273729,25456864,
+India,30-04-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,151998107,2729335,125376952,1565044,26621155,
+India,01-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,153626325,1628218,126328970,952018,27297355,
+India,02-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,154211511,585186,126704151,375181,27507360,
+India,03-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,156082136,1870625,127696675,992524,28385461,
+India,04-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,157750752,1668616,128627919,931244,29122833,
+India,05-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,159931238,2180486,129730641,1102722,30200597,
+India,06-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,162603603,2672365,131058890,1328249,31544713,
+India,07-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,165190000,2586397,132294827,1235937,32895173,
+India,08-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,167493857,2303857,133366482,1071655,34127375,
+India,09-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,168304868,811011,133854676,488194,34450192,
+India,10-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,171098918,2794050,135192013,1337337,35906905,
+India,11-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,173862643,2763725,136557345,1365332,37305298,
+India,12-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,176045577,2182934,137805245,1247900,38240332,
+India,13-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,178361846,2316269,139087590,1282345,39274256,
+India,14-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,179646413,1284567,139861462,773872,39784951,
+India,15-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,181544536,1898123,141132112,1270650,40412424,
+India,16-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,182251006,706470,141764335,632223,40486671,
+India,17-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,183817204,1566198,143090218,1325883,40726986,
+India,18-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,185191602,1374398,144270200,1179982,40921402,
+India,19-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,186410600,1218998,145333606,1063406,41076994,
+India,20-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,187886885,1476285,146624652,1291046,41262233,
+India,22-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,190842497,2955612,149219616,2594964,41622881,
+India,23-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,191719240,876743,150033188,813572,41686052,
+India,24-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,194165711,2446471,152301505,2268317,41864206,
+India,25-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,195506779,1341068,153511379,1209874,41995400,
+India,26-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,198425615,2918836,156189641,2678262,42235974,
+India,27-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,201203166,2777551,158783606,2593965,42419560,
+India,28-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,203166802,1963636,160605562,1821956,42561240,
+India,29-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,207088953,3922151,164158704,3553142,42930249,
+India,30-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,208665123,1576170,165598013,1439309,43067110,
+India,31-05-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,210449895,1784772,167191085,1593072,43258810,
+India,01-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,213135738,2685843,169585180,2394095,43550558,
+India,02-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,215678166,2542428,171866824,2281644,43811342,
+India,03-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,218344384,2666218,174296917,2430093,44047467,
+India,04-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,223607768,5263384,179172948,4876031,44434820,
+India,05-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,225571144,1963376,180972102,1799154,44599042,
+India,06-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,228041045,2469901,183275704,2303602,44765341,
+India,07-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,230490652,2449607,185501579,2225875,44989073,
+India,08-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,233680929,3190277,188363894,2862315,45317035,
+India,09-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,236856505,3175576,191222380,2858486,45634125,
+India,10-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,240281903,3425398,194325996,3103616,45955907,
+India,11-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,243703242,3421339,197415653,3089657,46287589,
+India,12-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,246188067,2484825,199655293,2239640,46532774,
+India,13-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,249430416,3242349,202572835,2917542,46857581,
+India,14-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,252760364,3329948,205571046,2998211,47189318,
+India,15-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,255305366,2545002,207830971,2259925,47474395,
+India,16-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,258325900,3020534,210442950,2611979,47882950,
+India,17-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,262970250,4644350,214553189,4110239,48417061,
+India,18-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,266355940,3385690,217542993,2989804,48812947,
+India,19-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,270908312,4552372,221493259,3950266,49415053,
+India,20-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,274286599,3378287,224541283,3048024,49745316,
+India,21-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,283313942,9027343,232744813,8203530,50569129,
+India,22-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,289855456,6541514,238586187,5841374,51269269,
+India,23-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,293370338,3514882,241720520,3134333,51649818,
+India,24-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,300054027,6683689,247652194,5931674,52401833,
+India,25-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,306661528,6607501,253359907,5707713,53301621,
+India,26-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,314841384,8179856,260253182,6893275,54588202,
+India,27-06-2021,"Covaxin, Oxford/AstraZeneca",https://dashboard.cowin.gov.in/,318030412,3189028,262916313,2663131,55114099,
+India,28-06-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,321423578,3393166,265545768,2629455,55877810,
+India,29-06-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,327423913,6000335,270178001,4632233,57245912,
+India,30-06-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,329158139,1734226,271410023,1232022,57748116,
+India,01-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,334741649,5583510,275693081,4283058,59048568,
+India,02-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,335671794,930145,276339011,645930,59332783,
+India,03-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,344300590,8628796,282231365,5892354,62069225,
+India,04-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,347378550,3077960,284455266,2223901,62923284,
+India,05-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,351229497,3850947,286751758,2296492,64477739,
+India,06-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,354307646,3078149,288782557,2030799,65525089,
+India,07-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,358070763,3763117,291184757,2402200,66886006,
+India,08-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,368991222,10920459,298678913,7494156,70312309,
+India,10-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,376032586,7041364,303171498,4492585,72861088,
+India,11-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,377352501,1319915,304018852,847354,73333649,
+India,12-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,381467646,4115145,306612781,2593929,74854865,
+India,13-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,387697935,6230289,311387539,4774758,76310396,
+India,14-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,391340491,3642556,313529502,2141963,77810989,
+India,15-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,395343767,4003276,316116189,2586687,79227578,
+India,16-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,399695879,4352112,318665226,2549037,81030653,
+India,17-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,404931715,5235836,321893762,3228536,83037953,
+India,19-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,411846401,6914686,326392783,4499021,85453618,
+India,20-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,415472455,3626054,328716212,2323429,86756243,
+India,21-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,417851151,2378696,330259212,1543000,87591939,
+India,22-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,423417030,5565879,333945151,3685939,89471879,
+India,23-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,427882261,4465231,336819816,2874665,91062445,
+India,24-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,433150864,5268603,340387695,3567879,92763169,
+India,25-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,435196001,2045137,341802707,1415012,93393294,
+India,26-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,441912395,6716394,346516149,4713442,95396246,
+India,27-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,446156659,4244264,349324061,2807912,96832598,
+India,28-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,450706257,4549598,352545271,3221210,98160986,
+India,29-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,456033754,5327497,356140739,3595468,99893015,
+India,30-07-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,461518479,5484725,359820313,3679574,101698166,
+India,01-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,472223639,10705160,367994586,8174273,104229053,
+India,03-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,485286570,13062931,378090597,10096011,107195973,
+India,04-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,489342295,4055725,381126275,3035678,108216020,
+India,05-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,495327595,5985300,385631050,4504775,109696545,
+India,06-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,501009609,5682014,390041560,4410510,110968049,
+India,07-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,506810492,5800883,394378151,4336591,112432341,
+India,08-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,508664759,1854267,395667593,1289442,112997166,
+India,09-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,514500268,5835509,400158057,4490464,114342211,
+India,10-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,519080524,4580256,403596088,3438031,115484436,
+India,11-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,523671019,4590495,406980329,3384241,116690690,
+India,13-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,536189903,12518884,416846115,9865786,119343788,
+India,14-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://www.mohfw.gov.in/,543846290,7656387,422575401,5729286,121270889,
+India,16-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,550520038,6673748,428681772,6106371,121838266,
+India,17-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,556520316,6000278,433454974,4773202,123065342,
+India,18-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,562151515,5631199,437698591,4243617,124452924,
+India,19-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,566595708,4444193,441116044,3417453,125479664,
+India,20-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,573205464,6609756,446102199,4986155,127103265,
+India,21-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,576365820,3160356,448292884,2190685,128072936,
+India,22-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,580771824,4406004,451186857,2893973,129584967,
+India,23-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,582239230,1467406,452207578,1020721,130031652,
+India,24-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,588731504,6492274,456880623,4673045,131850881,
+India,25-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,597923238,9191734,463341344,6460721,134581894,
+India,26-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,604391211,6467973,468130627,4789283,136260584,
+India,27-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,615540527,11149316,476059071,7928444,139481456,
+India,28-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,625864766,10324239,483512657,7453586,142352109,
+India,29-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,632587851,6723085,488153607,4640950,144434244,
+India,30-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,639305611,6717760,493077195,4923588,146228416,
+India,31-08-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,644799225,5493614,497002083,3924888,147797142,
+India,01-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,661576916,16777691,509668131,12666048,151908785,
+India,02-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,669775627,8198711,515627968,5959837,154147659,
+India,03-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,675654935,5879308,519667854,4039886,155987081,
+India,04-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,677744969,2090034,521015869,1348015,156729100,
+India,05-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,684515513,6770544,525319361,4303492,159196152,
+India,06-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,688453563,3938050,527862293,2542932,160591270,
+India,07-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,699668404,11214841,536004002,8141709,163664402,
+India,08-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,710550810,10882406,543462433,7458431,167088377,
+India,09-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,720910239,10359429,550694661,7232228,170215578,
+India,10-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,724114731,3204492,552964723,2270062,171150008,
+India,11-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,733428972,9314241,558984568,6019845,174444404,
+India,12-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,740278136,6849164,563337272,4352704,176940864,
+India,13-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,750284569,10006433,570046655,6709383,180237914,
+India,14-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,752714069,2429500,571662310,1615655,181051759,
+India,15-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,761350715,8636646,576856263,5193953,184494452,
+India,16-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,771341641,9990926,582842108,5985845,188499533,
+India,17-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,777387850,6046209,586105233,3263125,191282617,
+India,18-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,796015119,18627269,597205296,11100063,198809823,
+India,19-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,804778696,8763577,602206789,5001493,202571907,
+India,20-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,812232516,7453820,606563237,4356448,205669279,
+India,21-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,821836262,9603746,612360533,5797296,209475729,
+India,22-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,827297973,5461711,615659928,3299395,211638045,
+India,23-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,837239837,9941864,621209052,5549124,216030785,
+India,24-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,847653817,10413980,627322598,6113546,220331219,
+India,25-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,852156699,4502882,629574531,2251933,222582168,
+India,26-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,855791746,3635047,631601656,2027125,224190090,
+India,27-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,868774116,12982370,639303166,7701510,229470950,
+India,28-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,873244661,4470545,641845931,2542765,231398730,
+India,29-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,879692465,6447804,645293313,3447382,234399152,
+India,30-09-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,886425292,6732827,648949043,3655730,237476249,
+India,01-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,893203984,6778692,652744197,3795154,240459787,
+India,02-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,901004270,7800286,656956299,4212102,244047971,
+India,03-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,906155473,5151203,659744381,2788082,246411092,
+India,04-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,911080329,4924856,662266667,2522286,248813662,
+India,05-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,918129250,7048921,666078231,3811564,252051019,
+India,06-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,923526951,5397701,668975929,2897698,254551022,
+India,07-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,927173859,3646908,670864526,1888597,256309333,
+India,08-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,935219767,8045908,675161305,4296779,260058462,
+India,09-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,943033918,7814151,679245181,4083876,263788737,
+India,10-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,951139832,8105914,683498355,4253174,267641477,
+India,11-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,954908095,3768263,685337489,1839134,269570606,
+India,12-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,961339629,6431534,688686928,3349439,272652701,
+India,13-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,965904347,4564718,690968314,2281386,274936033,
+India,14-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,968362051,2457704,692134805,1166491,276227246,
+India,15-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,971163447,2801396,693416137,1281332,277747310,
+India,16-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,972686142,1522695,693992112,575975,278694030,
+India,17-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,976344696,3658554,695536360,1544248,280808336,
+India,18-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,978954738,2610042,696638920,1102560,282315818,
+India,19-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,987113051,8158313,700140298,3501378,286972753,
+India,20-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,997399032,10285981,705846235,5705937,291552797,
+India,21-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1003204289,5805257,709552033,3705798,293652256,
+India,22-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1009945663,6741374,712404590,2852557,297541073,
+India,23-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1013637431,3691768,714084133,1679543,299553298,
+India,24-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1022267850,8630419,717676310,3592177,304591540,
+India,25-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1024149949,1882099,718444141,767831,305705808,
+India,26-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1030850079,6700130,721149084,2704943,309700995,
+India,27-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1036568410,5718331,723424864,2275780,313143546,
+India,28-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1042458533,5890123,725633405,2208541,316825128,
+India,29-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1051708635,9250102,729199887,3566482,322508748,
+India,30-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1058489433,6780798,731811996,2612109,326677437,
+India,31-10-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1062631351,4141918,733542729,1730733,329088622,
+India,01-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1067654329,5022978,735580368,2037639,332073961,
+India,02-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1069718646,2064317,736446575,866207,333272071,
+India,03-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1075059421,5340775,738501950,2055375,336557471,
+India,04-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1077107323,2047902,739357801,855851,337749522,
+India,05-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1077793623,686300,739594039,236238,338199584,
+India,06-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1080177477,2383854,740368395,774356,339809082,
+India,07-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1083142285,2964808,741210655,842260,341931630,
+India,08-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1088236037,5093752,742750155,1539500,345485882,
+India,09-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1092148139,3912102,743984381,1234226,348163758,
+India,10-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1097806371,5658232,745597244,1612863,352209127,
+India,11-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1102775592,4969221,746872225,1274981,355903367,
+India,12-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1111423316,8647724,749179463,2307238,362243853,
+India,13-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1119180353,7757037,751481608,2302145,367698745,
+India,14-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1122889436,3709083,752662221,1180613,370227215,
+India,15-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1126981490,4092054,753932806,1270585,373048684,
+India,16-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1133688213,6706723,756052687,2119881,377635526,
+India,17-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1141006707,7318494,758251605,2198918,382755102,
+India,18-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1148786886,7780179,760532284,2280679,388254602,
+India,19-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1153595556,4808670,762169283,1636999,391426273,
+India,20-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1163685005,10089449,765364845,3195562,398320160,
+India,21-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1168057227,4372222,766988022,1623177,401069205,
+India,22-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1175843376,7786149,769596553,2608531,406246823,
+India,23-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1183947210,8103834,772215710,2619157,411731500,
+India,24-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1193769229,9822019,775076432,2860722,418692797,
+India,25-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1198528642,4759413,776515911,1439479,422012731,
+India,26-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1210758081,12229439,780551005,4035094,430207076,
+India,27-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1212493046,1734965,781075743,524738,431417303,
+India,28-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1223194701,10701655,784647922,3572179,438546779,
+India,29-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1228492006,5297305,786355397,1707475,442136609,
+India,30-11-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1237055142,8563136,789054196,2698799,448000946,
+India,01-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1245517176,8462034,791626543,2572347,453890633,
+India,02-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1255866411,10349235,794528313,2901770,461338098,
+India,03-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1261728028,5861617,796283823,1755510,465444205,
+India,04-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1273806245,12078217,799745524,3461701,474060721,
+India,05-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1278763558,4957313,801417375,1671851,477346183,
+India,06-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1283718063,4954505,802894059,1476684,480824004,
+India,07-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1291962219,8244156,805404596,2510537,486557623,
+India,08-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1299875078,7912859,807755550,2350954,492119528,
+India,09-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1308244539,8369461,810142506,2386956,498102033,
+India,10-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1312375088,4130549,811443992,1301486,500931096,
+India,11-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1327494248,15119160,815387998,3944006,512106250,
+India,12-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1331399226,3904978,816708250,1320252,514690976,
+India,13-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1335465563,4066337,817907560,1199310,517558003,
+India,14-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1346291425,10825862,820963910,3056350,525327515,
+India,15-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1352485358,6193933,822545653,1581743,529939705,
+India,16-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1356491248,4005890,823451038,905385,533040210,
+India,17-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1365366923,8875675,825531190,2080152,539835733,
+India,18-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1373057489,7690566,827368472,1837282,545689017,
+India,19-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1376428862,3371373,828319595,951123,548109267,
+India,20-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1380223188,3794326,829219869,900274,551003319,
+India,21-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1388521671,8298483,831142523,1922654,557379148,
+India,22-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1391050278,2528607,831763875,621352,559286403,
+India,23-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1398221289,7171011,833265701,1501826,564955588,
+India,24-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1404556570,6335281,834737784,1472083,569818786,
+India,25-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1413981791,9425221,837078735,2340951,576903056,
+India,26-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1414731603,749812,837294288,215553,577437315,
+India,27-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1418447119,3715516,838318164,1023876,580128955,
+India,28-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1426069774,7622655,840095473,1777309,585974301,
+India,29-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1435195841,9126067,842315450,2219977,592880391,
+India,30-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1438717497,3521656,843220793,905343,595496704,
+India,31-12-2021,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1448865422,10147925,845640601,2419808,603224821,
+India,01-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1454069802,5204380,846975771,1335170,607094031,
+India,02-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1456586234,2516432,847665306,689535,608920928,
+India,03-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1464526170,7939936,852570971,4905665,611955199,
+India,04-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1472330269,7804099,857788520,5217549,614541749,
+India,05-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1482203963,9873694,864466425,6677905,617737538,
+India,06-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1491991022,9787059,871088714,6622289,620902308,
+India,07-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1505591911,13600889,879625063,8536349,625966848,
+India,08-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1508007415,2415504,880930714,1305651,627076701,
+India,09-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1517705282,9697867,886204082,5273368,631501200,
+India,10-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1524222751,6517469,889459819,3255737,634265259,
+India,11-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1537841948,13619197,895852039,6392220,640117846,
+India,12-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1544297708,6455760,898710263,2858224,643070555,
+India,13-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1553919710,9622002,903038624,4328361,647586748,3294338
+India,14-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1556478542,2558832,904086765,1048141,648878102,3513675
+India,15-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1565638547,9160005,908005349,3918584,653514044,4119154
+India,16-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1570696006,5057459,910386043,2380694,656011893,4298070
+India,17-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1575863289,5167283,912552134,2166091,658614500,
+India,18-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1576006300,143011,912567911,15777,658765881,4672508
+India,19-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1592451490,16445190,919059606,6491695,667552043,5839841
+India,20-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1600333779,7882289,922087216,3027610,671853985,6392578
+India,21-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1609613007,9279228,925500152,3412936,677041072,7071783
+India,22-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1617088106,7475099,928133309,2633157,681368115,7586682
+India,23-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1622210924,5122818,929971622,1838313,684436700,7802602
+India,24-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1623419845,1208921,930359898,388276,685102189,7957758
+India,25-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1630312330,6892485,932606511,2246613,689133722,8572097
+India,26-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1636183520,5871190,934468791,1862280,692645423,9069306
+India,27-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1639112704,2929184,935294849,826058,694410120,9407735
+India,28-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1645293992,6181288,937107027,1812178,698115220,10071745
+India,29-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1650461284,5167292,938645671,1538644,701262521,10553092
+India,30-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1657362150,6900866,940755706,2110035,705405482,11200962
+India,31-01-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1664786038,7423888,943027714,2272008,709926447,11831877
+India,01-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1671163877,6377839,944749420,1721706,714073668,12340789
+India,02-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1677030680,5866803,946259127,1509707,717972069,12799484
+India,03-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1681517744,4487064,947341172,1082045,721020585,13155987
+India,04-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1687048487,5530743,948717449,1376277,724768356,13562682
+India,05-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1693177165,6128678,950308975,1591526,728875616,13992574
+India,06-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1695886196,2709031,951213177,904202,730532500,14140519
+India,07-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1696048044,161848,951263816,50639,730627102,14157126
+India,08-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1702679391,6631347,952678279,1414463,736217486,14652203
+India,09-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1710023580,7344189,954257234,1578955,740575198,15191148
+India,10-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1710398811,375231,954313669,56435,740861221,15223921
+India,11-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1720173263,9774452,956363985,2050316,747888827,15920451
+India,12-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1723371281,3198018,957047881,683896,750185166,16138234
+India,13-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1727912049,4540768,958033046,985165,753481207,16397796
+India,14-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1729729648,1817599,958462316,429270,754746231,16521101
+India,15-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1736068837,6339189,959602131,1139815,759530099,16936607
+India,16-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1738650284,2581447,960091888,489757,761473602,17084794
+India,17-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1743931966,5281682,961022242,930354,765507484,17402240
+India,18-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1747936912,4004946,961693778,671536,768626041,17617093
+India,19-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1751467446,3530534,962283459,589681,771380004,17803983
+India,20-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1753406786,1939340,962616766,333307,772901521,17888499
+India,21-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1755791055,2384269,962967313,350547,774808452,18015290
+India,22-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1759523094,3732039,963517480,550167,777816191,18189423
+India,23-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1761691159,2168065,963841804,324324,779561195,18288160
+India,24-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1764970949,3279790,964304634,462830,782222068,18444247
+India,25-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1768596814,3625865,964818498,513864,785172630,18605686
+India,26-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1772317897,3721083,965336168,517670,788213991,18767738
+India,27-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1773724815,1406918,965531308,195140,789372639,18820868
+India,28-02-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1775178647,1453832,965733580,202272,790556254,18888813
+India,01-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1776674379,1495732,965923463,189883,791803734,18947182
+India,02-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1778253673,1579294,966125454,201991,793112322,19015897
+India,03-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1781445039,3191366,966508496,383042,795778169,19158374
+India,04-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1784081444,2636405,966810216,301720,797997103,19274125
+India,05-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1786849348,2767904,967153861,343645,800304849,19390638
+India,06-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1787845508,996160,967279389,125528,801141086,19425033
+India,07-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1789317128,1471620,967460932,181543,802358408,19497788
+India,08-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1791553063,2235935,967725805,264873,804228336,19598922
+India,09-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1793520158,1967095,967946798,220993,805886615,19686745
+India,10-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1795443790,1923632,968154309,207511,807510151,19779330
+India,11-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1798217482,2773692,968454151,299842,809861857,19901474
+India,12-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1799411716,1194234,968594304,140153,810857880,19959532
+India,13-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1800720203,1308487,968738370,144066,811980554,20001279
+India,14-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1802515613,1795410,968928555,190185,813501336,20085722
+India,15-03-2022,"Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1804173297,1657684,969097787,169232,814906002,20169508
+India,16-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1806005751,1832454,969281482,183695,816469839,20254430
+India,17-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1808015400,2009649,970008356,726874,817667068,20339976
+India,18-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1809229692,1214292,970523455,515099,818324294,20381943
+India,19-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1810472831,1243139,971067179,543724,818968798,20436854
+India,20-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1811384731,911900,971428124,360945,819491293,20465314
+India,21-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1813883509,2498778,972808865,1380741,820497326,20577318
+India,22-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1816439799,2556290,974339631,1530766,821413590,20686578
+India,23-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1820574288,4134489,976963865,2624234,822790602,20819821
+India,24-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1824268730,3694442,979236978,2273113,824066700,20965052
+India,25-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1826265830,1997100,980435665,1198687,824764568,21065597
+India,26-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1830285290,4019460,982687842,2252177,826360688,21236760
+India,27-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1831347741,1062451,983190780,502938,826884564,21272397
+India,28-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1833040014,1692273,984051283,860503,827610878,21377853
+India,29-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1834500657,1460643,984838143,786860,828229455,21433059
+India,30-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1838519822,4019165,987012865,2174722,829846274,21660683
+India,31-03-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1841947045,3427223,988846975,1834110,831238996,21861074
+India,01-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1843313964,1366919,989520028,673053,831824241,21969695
+India,04-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1847000842,3686878,991037275,1517247,833703203,22260364
+India,05-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1848699443,1698601,991769822,732547,834507741,22421880
+India,06-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1850895496,2196053,992728812,958990,835583400,22583284
+India,07-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1852472643,1577147,993426348,697536,836334675,22711620
+India,08-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1853783376,1310733,993976391,550043,836977198,22829787
+India,09-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1855432129,1648753,994642394,666003,837829024,22960711
+India,10-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1856267473,835344,994940223,297829,838319304,23007946
+India,11-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1857308103,1040630,995287178,346955,838867091,23153834
+India,12-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1859559964,2251861,996097655,810477,840024362,23437947
+India,13-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1860601312,1041348,996471455,373800,840565591,23564266
+India,14-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1862055068,1453756,996934800,463345,841424423,23695845
+India,15-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1862475218,420150,997038307,103507,841683688,23753223
+India,18-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1865530788,3055570,997831114,792807,843531138,24168536
+India,19-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1867730851,2200063,998395198,564084,844905630,24430023
+India,20-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1868475798,744947,998570814,175616,845392713,24512271
+India,21-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1870188115,1712317,998973861,403047,846509195,24705059
+India,22-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1872146953,1958838,999458254,484393,847776627,24912072
+India,24-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1875857737,3710784,1000351588,893334,850179623,25326526
+India,25-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1876721584,863847,1000537663,186075,850734842,25449079
+India,26-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1879171201,2449617,1001097348,559685,852356087,25717766
+India,27-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1881446210,2275009,1001622805,525457,853848567,25974838
+India,28-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1883679480,2233270,1002087957,465152,855374676,26216847
+India,29-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1886979879,3300399,1002808022,720065,857622004,26549853
+India,30-04-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1888681185,1701306,1003162202,354180,858800580,26718403
+India,01-05-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1890938196,2257011,1003626487,464285,860357368,26954341
+India,02-05-2022,"Corbevax, Covaxin, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1891772613,834417,1003788869,162382,860909996,27073748
+India,03-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1893322786,1550173,1004092762,303893,861965139,27264885
+India,04-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1894097635,774849,1004240714,147952,862476076,27380845
+India,05-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1895735848,1638213,1004558311,317597,863597661,27579876
+India,06-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1897620959,1885111,1004932875,374564,864902000,27786084
+India,07-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1899566264,1945305,1005329809,396934,866213265,28023190
+India,08-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1901414279,1848015,1005710091,380282,867476230,28227958
+India,09-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1902826009,1411730,1005996438,286347,868472858,28356713
+India,10-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1904468335,1642326,1006306450,310012,869609528,28552357
+India,11-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1906086192,1617857,1006617507,311057,870741035,28727650
+India,12-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1907730016,1643824,1006947605,330098,871882669,28899742
+India,13-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1909303657,1573641,1007275333,327728,872953369,29074955
+India,14-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1910988931,1685274,1007616480,341147,874086644,29285807
+India,15-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1912387924,1398993,1007875307,258827,874993288,29519329
+India,16-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1912934803,546879,1007965027,89720,875350992,29618784
+India,17-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1914231848,1297045,1008179704,214677,876177987,29874157
+India,18-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1915784498,1552650,1008469779,290075,877191280,30123439
+India,19-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1917330271,1545773,1008734547,264768,878236822,30358902
+India,20-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1918969942,1639671,1009044161,309614,879319669,30606112
+India,21-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1920639056,1669114,1009345050,300889,880383946,30910060
+India,22-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1922077507,1438451,1009567798,222748,881280667,31229042
+India,23-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1923079150,1001643,1009659072,91274,881893220,31526858
+India,24-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1924562314,1483164,1009889844,230772,882839026,31833444
+India,25-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1925998950,1436636,1010112144,222300,883757952,32128854
+India,26-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1927492886,1493936,1010349257,237113,884740081,32403548
+India,27-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1929071592,1578706,1010616593,267336,885750071,32704928
+India,28-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1930645136,1573544,1010876641,260048,886749725,33018770
+India,29-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1931892904,1247768,1011066751,190110,887503757,33322396
+India,30-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1932350200,457296,1011133506,66755,887784839,33431855
+India,31-05-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1933706281,1356081,1011329919,196413,888628256,33748106
+India,01-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1935937188,2230907,1011653553,323634,890032719,34250916
+India,02-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1936227419,290231,1011693229,39676,890216680,34317510
+India,03-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1937558468,1331049,1011862480,169251,891067632,34628356
+India,04-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1938863350,1304882,1012032729,170249,891909560,34921061
+India,05-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1939962957,1099607,1012178184,145455,892593726,35191047
+India,06-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1940463971,501014,1012242224,64040,892911908,35309839
+India,07-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1941877578,1413607,1012433476,191252,893827237,35616865
+India,08-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1943533128,1655550,1012660415,226939,894908060,35964653
+India,09-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1945224141,1691013,1012866101,205686,895978207,36379833
+India,10-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1946888891,1664750,1013087306,221205,897066745,36734840
+India,11-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1948512551,1623660,1013296239,208933,898119984,37096328
+India,12-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1949991113,1478562,1013473564,177325,899123575,37393974
+India,13-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1951184908,1193795,1013619662,146098,899977040,37588206
+India,14-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1952767342,1582434,1013813624,193962,901001260,37952458
+India,15-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1954285339,1517997,1013988367,174743,901971812,38325160
+India,16-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1955954232,1668893,1014178043,189676,902972911,38803278
+India,17-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1957644567,1690335,1014376400,198357,904021638,39246529
+India,18-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1959268288,1623721,1014571652,195252,905029095,39667541
+India,19-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1960498702,1230414,1014700077,128425,905759251,40039374
+India,20-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1960998144,499442,1014753552,53475,906057026,40187566
+India,21-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1962421213,1423069,1014916146,162594,906949409,40555658
+India,22-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1963796134,1374921,1015071082,154936,907810836,40914216
+India,23-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1965433440,1637306,1015258094,187012,908786223,41389123
+India,24-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1966980412,1546972,1015453733,195639,909724866,41801813
+India,25-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1968671713,1691301,1015664024,210291,910723911,42283778
+India,26-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1969852777,1181064,1015812743,148719,911401679,42638355
+India,27-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1970469750,616973,1015877936,65193,911747634,42844180
+India,28-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1972351905,1882155,1016119457,241521,912802491,43429957
+India,29-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1973822032,1470127,1016311008,191551,913642889,43868135
+India,30-06-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1975334761,1512729,1016506282,195274,914479703,44348776
+India,01-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1976570002,1235241,1016681915,175633,915190727,44697360
+India,02-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1977618374,1048372,1016823048,141133,915792386,45002940
+India,03-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1978551059,932685,1016937915,114867,916273442,45339702
+India,04-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1978918170,367111,1016975834,37919,916469219,45473117
+India,05-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1980107125,1188955,1017136761,160927,917105118,45865246
+India,06-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1981185072,1077947,1017278804,142043,917703086,46203182
+India,07-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1982580433,1395361,1017449332,170528,918417650,46713451
+India,08-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1984334136,1753703,1017673041,223709,919261729,47399366
+India,10-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1986908392,2574256,1017996645,323604,920505305,48406442
+India,11-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1987985218,1076826,1018140367,143722,921126136,48718715
+India,12-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1989187695,1202477,1018273321,132954,921673246,49241128
+India,13-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1991240408,2052713,1018487175,213854,922618168,50135065
+India,14-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1994169877,2929469,1018681690,194515,924508543,50979644
+India,15-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,1996965088,2795211,1018896980,215290,925286833,52781275
+India,18-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2001968030,5002942,1019176932,279952,926264730,56526368
+India,19-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2003874710,1906680,1019285818,108886,926634838,57954054
+India,20-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2006671447,2796737,1019444946,159128,927126118,60100383
+India,21-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2009895110,3223663,1019623676,178730,927699477,62571957
+India,22-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2013731335,3836225,1019861177,237501,928450353,65419805
+India,23-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2017443065,3711730,1020047447,186270,928991142,68404476
+India,24-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2020403475,2960410,1020201502,154055,929485331,70716642
+India,25-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2022304876,1901401,1020310719,109217,929894146,72100011
+India,26-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2025484888,3180012,1020464203,153484,930240225,74780460
+India,27-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2028636906,3152018,1020618374,154171,930769192,77249340
+India,28-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2032936191,4299285,1020800260,181886,931350168,80785763
+India,29-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2036654672,3718481,1021025081,224821,932013360,83616231
+India,30-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2040074302,3419630,1021195385,170304,932438658,86440259
+India,31-07-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2042774905,2700603,1021327183,131798,932775394,88672328
+India,01-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2043818288,1043383,1021365208,38025,932887740,89565340
+India,02-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2046516773,2698485,1021500031,134823,933235740,91781002
+India,04-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2052900354,6383581,1021768801,268770,934056723,97074830
+India,05-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2056488272,3587918,1021970986,202185,934624191,99893095
+India,06-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2059773065,3284793,1022134169,163183,935057847,102581049
+India,07-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2062862077,3089012,1022282731,148562,935516836,105062510
+India,08-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2066179158,3317081,1022422984,140253,935960021,107796153
+India,09-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2069154989,2975831,1022553104,130120,936306242,110295643
+India,10-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2070740882,1585893,1022620253,67149,936496147,111624482
+India,11-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2073245736,2504854,1022722555,102302,936815198,113707983
+India,12-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2075074767,1829031,1022814629,92074,937095945,115164193
+India,13-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2077667936,2593169,1022911169,96540,937381177,117375590
+India,14-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2080314240,2646304,1023010325,99156,937694109,119609806
+India,15-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2082646297,2332057,1023054779,44454,937852378,121739140
+India,16-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2083497365,851068,1023076177,21398,937940019,122481169
+India,17-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2086296791,2799426,1023166139,89962,938220798,124909854
+India,18-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2090061582,3764791,1023283340,117201,938587867,128190375
+India,19-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2092978091,2916509,1023407222,123882,938911858,130659011
+India,20-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2094438592,1460501,1023462622,55400,939094320,131881650
+India,21-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2097388903,2950311,1023568977,106355,939457024,134362902
+India,22-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2100689201,3300298,1023666093,97116,939828608,137194500
+India,23-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2103627869,2938668,1023763304,97211,940132623,139731942
+India,24-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2106237544,2609675,1023869342,106038,940425429,141942773
+India,25-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2108724109,2486565,1023976411,107069,940753479,143994219
+India,26-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2111876002,3151893,1024112677,136266,941179037,146584288
+India,27-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2114453857,2577855,1024216196,103519,941459291,148778370
+India,28-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2117020150,2566293,1024314319,98123,941719531,150986300
+India,29-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2119502119,2481969,1024363080,48761,941883302,153255737
+India,30-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2122099237,2597118,1024451889,88809,942133090,155514258
+India,31-08-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2124186933,2087696,1024516127,64238,942327191,157343615
+India,01-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2125613960,1427027,1024575443,59316,942501420,158537097
+India,02-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2127923399,2309439,1024674255,98812,942802345,160446799
+India,03-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2130464186,2540787,1024757889,83634,943038654,162667643
+India,04-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2132658458,2194272,1024831365,73476,943294210,164532883
+India,05-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2135583657,2925199,1024897727,66362,943578686,167107244
+India,06-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2137561057,1977400,1024956643,58916,943763419,168840995
+India,07-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2139659830,2098773,1025025405,68762,943959568,170674857
+India,08-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2143231108,3571278,1025116635,91230,944241171,173873302
+India,09-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2145936972,2705864,1025201001,84366,944541113,176194858
+India,10-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2148075189,2138217,1025269211,68210,944731966,178074012
+India,11-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2150122402,2047213,1025330630,61419,944970466,179821306
+India,12-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2152915577,2793175,1025392305,61675,945243352,182279920
+India,13-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2155069979,2154402,1025465056,72751,945446217,184158706
+India,14-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2157151049,2081070,1025532632,67576,945633577,185984840
+India,15-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2160120066,2969017,1025619971,87339,945888274,188611821
+India,16-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2162085492,1965426,1025699120,79149,946137585,190248787
+India,17-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2164396948,2311456,1025764618,65498,946326767,192305563
+India,18-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2165982650,1585702,1025814756,50138,946508327,193659567
+India,19-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2167186118,1203468,1025858015,43259,946678783,194649320
+India,20-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2168505627,1319509,1025904513,46498,946810471,195790643
+India,21-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2169753427,1247800,1025950945,46432,946939884,196862598
+India,22-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2171336749,1583322,1026003645,52700,947099821,198233283
+India,23-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2172815223,1478474,1026059522,55877,947277322,199478379
+India,24-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2174341590,1526367,1026106833,47311,947414286,200820471
+India,25-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2175957465,1615875,1026153814,46981,947573788,202229863
+India,26-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2176997087,1039622,1026187500,33686,947702673,203106914
+India,27-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2178441102,1444015,1026222338,34838,947816392,204402372
+India,28-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2179945601,1504499,1026259249,36911,947940802,205745550
+India,29-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2182239274,2293673,1026306484,47235,948120382,207812408
+India,30-09-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2185459294,3220020,1026371105,64621,948371253,210716936
+India,01-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2186955246,1495952,1026407264,36159,948517818,212030164
+India,02-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2187548762,593516,1026427876,20612,948592361,212528525
+India,03-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2187731108,182346,1026433516,5640,948617293,212680299
+India,04-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2188076740,345632,1026447293,13777,948660386,212969061
+India,05-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2188332870,256130,1026455211,7918,948692346,213185313
+India,06-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2188448601,115731,1026459263,4052,948711877,213277461
+India,07-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2188865321,416720,1026475997,16734,948783217,213606107
+India,08-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2189375345,510024,1026498766,22769,948860632,214015947
+India,09-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2189790426,415081,1026515438,16672,948925816,214349172
+India,10-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2190007323,216897,1026521598,6160,948948712,214537013
+India,11-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2190521299,513976,1026544838,23240,949019254,214957207
+India,12-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2191338497,817198,1026581890,37052,949149582,215607025
+India,14-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2192191132,852635,1026621971,40081,949304081,216265080
+India,15-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2192779896,588764,1026649970,27999,949388503,216741423
+India,16-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2193219253,439357,1026669165,19195,949453930,217096158
+India,17-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2193368589,149336,1026676068,6903,949475229,217217292
+India,18-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2193800204,431615,1026700314,24246,949549942,217549948
+India,19-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2194182432,382228,1026723642,23328,949627320,217831470
+India,20-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2194672934,490502,1026754040,30398,949730391,218188503
+India,21-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2195113126,440192,1026784601,30561,949834302,218494223
+India,22-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2195399307,286181,1026805788,21187,949900660,218692859
+India,23-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2195580184,180877,1026816174,10386,949937200,218826810
+India,24-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2195619506,39322,1026818811,2637,949943598,218857097
+India,25-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2195651402,31896,1026820130,1319,949949078,218882194
+India,26-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2195754191,102789,1026824755,4625,949968269,218961167
+India,27-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2195883501,129310,1026831971,7216,949997647,219053883
+India,28-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2196044179,160678,1026840789,8818,950032740,219170650
+India,29-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2196215302,171123,1026850803,10014,950066782,219297717
+India,30-10-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2196335748,120446,1026856716,5913,950090439,219388593
+India,01-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2196483169,147421,1026864496,7780,950118274,219500399
+India,02-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2196609939,126770,1026871408,6912,950145564,219592967
+India,03-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2196781421,171482,1026880429,9021,950180255,219720737
+India,04-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2196971035,189614,1026891548,11119,950217290,219862197
+India,05-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197138806,167771,1026901188,9640,950251445,219986173
+India,06-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197262288,123482,1026907906,6718,950278552,220075830
+India,07-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197295587,33299,1026910508,2602,950285563,220099516
+India,08-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197435518,139931,1026919862,9354,950315704,220199952
+India,09-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197513103,77585,1026925870,6008,950336542,220250691
+India,10-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197646336,133233,1026934310,8440,950369833,220342193
+India,11-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197783974,137638,1026943380,9070,950403228,220437366
+India,12-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197896947,112973,1026949833,6453,950431690,220515424
+India,13-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2197978762,81815,1026954849,5016,950447893,220576020
+India,14-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198006694,27932,1026956871,2022,950454684,220595139
+India,15-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198123903,117209,1026963301,6430,950487146,220673456
+India,16-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198226412,102509,1026969241,5940,950512662,220744509
+India,17-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198344955,118543,1026977435,8194,950540476,220827044
+India,18-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198447644,102689,1026983726,6291,950566594,220897324
+India,19-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198537172,89528,1026989712,5986,950588586,220958874
+India,20-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198603903,66731,1026996633,6921,950606106,221001164
+India,21-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198619380,15477,1026999062,2429,950609941,221010377
+India,22-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198696929,77549,1027007584,8522,950630587,221058758
+India,23-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198773864,76935,1027015080,7496,950649825,221108959
+India,24-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198861053,87189,1027020780,5700,950670997,221169276
+India,25-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2198939280,78227,1027025903,5123,950691085,221222292
+India,26-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199012704,73424,1027032280,6377,950712317,221268107
+India,27-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199058598,45894,1027035849,3569,950724853,221297896
+India,28-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199071394,12796,1027036689,840,950728529,221306176
+India,29-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199165837,94443,1027043870,7181,950757129,221364838
+India,30-11-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199192115,26278,1027045950,2080,950765492,221380673
+India,01-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199255614,63499,1027050053,4103,950782285,221423276
+India,02-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199308269,52655,1027054462,4409,950797037,221456770
+India,03-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199362341,54072,1027058419,3957,950810947,221492975
+India,04-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199404380,42039,1027062119,3700,950823043,221519218
+India,05-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199414864,10484,1027063055,936,950826154,221525655
+India,06-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199459244,44380,1027066942,3887,950839880,221552422
+India,07-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199500144,40900,1027071309,4367,950851902,221576933
+India,08-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199546356,46212,1027075664,4355,950866239,221604453
+India,09-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199596513,50157,1027080067,4403,950881906,221634540
+India,10-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199646883,50370,1027083897,3830,950898240,221664746
+India,11-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199683095,36212,1027087217,3320,950909151,221686727
+India,12-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199694877,11782,1027088793,1576,950913449,221692635
+India,13-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199746138,51261,1027092867,4074,950929061,221724210
+India,14-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199803956,57818,1027099057,6190,950945731,221759168
+India,15-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199861495,57539,1027104264,5207,950962000,221795231
+India,16-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199918890,57395,1027110205,5941,950978880,221829805
+India,17-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2199968116,49226,1027114538,4333,950992489,221861089
+India,18-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200010800,42684,1027117507,2969,951006502,221886791
+India,19-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200021116,10316,1027118833,1326,951009124,221893159
+India,20-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200070782,49666,1027123649,4816,951024984,221922149
+India,21-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200125212,54430,1027128408,4759,951042449,221954355
+India,22-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200198937,73725,1027133672,5264,951062564,222002701
+India,23-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200291726,92789,1027139671,5999,951082819,222069236
+India,24-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200398405,106679,1027147220,7549,951102777,222148408
+India,25-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200495328,96923,1027154597,7377,951119216,222221515
+India,26-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200534092,38764,1027157412,2815,951124245,222252435
+India,27-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200631022,96930,1027166078,8666,951140611,222324333
+India,28-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200721618,90596,1027175213,9135,951158405,222388000
+India,29-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200817500,95882,1027184263,9050,951176639,222456598
+India,30-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200901700,84200,1027192625,8362,951192203,222516872
+India,31-12-2022,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2200989986,88286,1027200953,8328,951207411,222581622
+India,01-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201044679,54693,1027204886,3933,951216009,222623784
+India,02-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201054881,10202,1027205735,849,951217236,222631910
+India,03-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201103827,48946,1027209389,3654,951225480,222668958
+India,04-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201152760,48933,1027213057,3668,951234968,222704735
+India,05-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201212338,59578,1027216958,3901,951244627,222750753
+India,06-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201259958,47620,1027220840,3882,951254241,222784877
+India,07-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201318312,58354,1027224769,3929,951264717,222828826
+India,08-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201370207,51895,1027228167,3398,951274467,222867573
+India,09-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201384597,14390,1027229432,1265,951276861,222878304
+India,10-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201442947,58350,1027233458,4026,951288489,222921000
+India,11-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201494588,51641,1027237038,3580,951298697,222958853
+India,12-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201554690,60102,1027241043,4005,951310709,223002938
+India,13-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201603914,49224,1027244784,3741,951321918,223037212
+India,14-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201655453,51539,1027247549,2765,951331661,223076243
+India,15-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201675334,19881,1027248959,1410,951336433,223089942
+India,16-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201682359,7025,1027249529,570,951337907,223094923
+India,17-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201741781,59422,1027252071,2542,951348068,223141642
+India,18-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2201842205,100424,1027255547,3476,951360940,223225718
+India,19-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2202035883,193678,1027260128,4581,951381919,223393836
+India,20-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2202213913,178030,1027265363,5235,951402523,223546027
+India,21-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2202437860,223947,1027271126,5763,951428765,223737969
+India,22-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2202785299,347439,1027277706,6580,951457282,224050311
+India,23-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2202837316,52017,1027279394,1688,951464506,224093416
+India,24-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2203061150,223834,1027285333,5939,951490152,224285665
+India,25-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2203278103,216953,1027291426,6093,951519835,224466842
+India,26-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2203548583,270480,1027297742,6316,951547569,224703272
+India,27-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2203593846,45263,1027299127,1385,951554179,224740540
+India,28-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2203808355,214509,1027304827,5700,951583464,224920064
+India,29-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2204066383,258028,1027310660,5833,951613583,225142140
+India,30-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2204593034,526651,1027320320,9660,951664615,225608099
+India,31-01-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2204868897,275863,1027325954,5634,951695297,225847646
+India,01-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2205104562,235665,1027331515,5561,951722099,226050948
+India,02-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2205275282,170720,1027335546,4031,951737603,226202133
+India,03-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2205436773,161491,1027339534,3988,951754380,226342859
+India,04-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2205597607,160834,1027343230,3696,951769840,226484537
+India,05-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2205732045,134438,1027346076,2846,951782313,226603656
+India,06-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2205782602,50557,1027347388,1312,951787087,226648127
+India,07-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2205920241,137639,1027350754,3366,951801278,226768209
+India,08-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206046004,125763,1027353880,3126,951815546,226876578
+India,09-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206164359,118355,1027356828,2948,951829632,226977899
+India,10-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206238494,74135,1027359426,2598,951840366,227038702
+India,11-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206263146,24652,1027360678,1252,951845726,227056742
+India,12-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206269503,6357,1027361364,686,951848120,227060019
+India,13-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206271789,2286,1027361594,230,951848976,227061219
+India,14-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206278370,6581,1027362508,914,951851527,227064335
+India,15-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206285694,7324,1027363412,904,951853969,227068313
+India,16-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206293300,7606,1027364371,959,951856473,227072456
+India,17-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206300775,7475,1027365410,1039,951859119,227076246
+India,18-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206308578,7803,1027366244,834,951862166,227080168
+India,19-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206311696,3118,1027366642,398,951863387,227081667
+India,20-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206313573,1877,1027366907,265,951864058,227082608
+India,21-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206320683,7110,1027368035,1128,951866629,227086019
+India,22-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206327329,6646,1027369065,1030,951869020,227089244
+India,23-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206334710,7381,1027370024,959,951871979,227092707
+India,24-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206341948,7238,1027371115,1091,951874546,227096287
+India,25-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206348628,6680,1027371984,869,951877077,227099567
+India,26-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206353431,4803,1027372714,730,951879089,227101628
+India,27-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206355345,1914,1027372956,242,951879693,227102696
+India,28-02-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206361497,6152,1027373895,939,951881903,227105699
+India,01-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206367997,6500,1027374842,947,951884144,227109011
+India,02-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206375298,7301,1027375680,838,951886607,227113011
+India,03-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206382304,7006,1027376761,1081,951889175,227116368
+India,04-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206389144,6840,1027377619,858,951891483,227120042
+India,05-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206395019,5875,1027378348,729,951894056,227122615
+India,06-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206396683,1664,1027378567,219,951894603,227123513
+India,07-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206401818,5135,1027379189,622,951896386,227126243
+India,08-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206404680,2862,1027379540,351,951897658,227127482
+India,09-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206407392,2712,1027379945,405,951898593,227128854
+India,10-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206414969,7577,1027380686,741,951901333,227132950
+India,11-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206422153,7184,1027381341,655,951903729,227137083
+India,12-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206427310,5157,1027381923,582,951905632,227139755
+India,13-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206429324,2014,1027382131,208,951906305,227140888
+India,14-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206436933,7609,1027382944,813,951909205,227144784
+India,15-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206445180,8247,1027383889,945,951912138,227149153
+India,16-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206454439,9259,1027384975,1086,951915342,227154122
+India,17-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206462789,8350,1027385887,912,951918485,227158417
+India,19-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206477662,14873,1027387690,1803,951924045,227165927
+India,20-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206479622,1960,1027387918,228,951924605,227167099
+India,21-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206487387,7765,1027388907,989,951927271,227171209
+India,22-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206494924,7537,1027389807,900,951929946,227175171
+India,23-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206502054,7130,1027390479,672,951932599,227178976
+India,24-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206508895,6841,1027391428,949,951935140,227182327
+India,25-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206518662,9767,1027392475,1047,951938654,227187533
+India,26-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206525453,6791,1027393464,989,951941166,227190823
+India,27-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206528035,2582,1027393755,291,951942059,227192221
+India,28-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206539832,11797,1027394790,1035,951946307,227198735
+India,29-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206551999,12167,1027395912,1122,951950380,227205707
+India,30-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206565971,13972,1027397396,1484,951955199,227213376
+India,31-03-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206573347,7376,1027398367,971,951957326,227217654
+India,01-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206582172,8825,1027399705,1338,951960356,227222111
+India,02-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206584467,2295,1027400039,334,951961044,227223384
+India,03-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206585373,906,1027400160,121,951961334,227223879
+India,04-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206587295,1922,1027400434,274,951962050,227224811
+India,05-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206589359,2064,1027400717,283,951962669,227225973
+India,06-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206591315,1956,1027400981,264,951963255,227227079
+India,07-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206593723,2408,1027401241,260,951963793,227228689
+India,08-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206595334,1611,1027401427,186,951964106,227229801
+India,10-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206596119,785,1027401701,274,951964352,227230066
+India,11-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206596475,356,1027401810,109,951964460,227230205
+India,12-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206596918,443,1027401901,91,951964620,227230397
+India,13-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206597253,335,1027401977,76,951964724,227230552
+India,14-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206597676,423,1027402083,106,951964812,227230781
+India,15-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206598272,596,1027402322,239,951964954,227230996
+India,16-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206598920,648,1027402534,212,951965122,227231264
+India,17-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206599169,249,1027402620,86,951965162,227231387
+India,18-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206599883,714,1027402739,119,951965358,227231786
+India,19-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206600395,512,1027402833,94,951965463,227232099
+India,20-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206601077,682,1027402955,122,951965558,227232564
+India,21-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206605334,4257,1027403067,112,951966001,227236266
+India,22-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206610588,5254,1027403278,211,951966358,227240952
+India,23-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206612148,1560,1027403517,239,951966556,227242075
+India,24-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206612924,776,1027403591,74,951966628,227242705
+India,25-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206618256,5332,1027403794,203,951967071,227247391
+India,26-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206623223,4967,1027403972,178,951967363,227251888
+India,27-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206628016,4793,1027404091,119,951967433,227256492
+India,28-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206632455,4439,1027404251,160,951967524,227260680
+India,29-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206636332,3877,1027404416,165,951967704,227264212
+India,30-04-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206638852,2520,1027404628,212,951968069,227266155
+India,01-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206639112,260,1027404699,71,951968122,227266291
+India,02-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206641678,2566,1027404843,144,951968211,227268624
+India,03-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206644025,2347,1027404966,123,951968306,227270753
+India,04-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206646421,2396,1027405074,108,951968396,227272951
+India,05-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206648123,1702,1027405191,117,951968531,227274401
+India,06-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206649602,1479,1027405311,120,951968752,227275539
+India,07-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206651926,2324,1027405436,125,951968991,227277499
+India,08-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206652521,595,1027405499,63,951969071,227277951
+India,09-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206655406,2885,1027405605,106,951969215,227280586
+India,10-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206657460,2054,1027405696,91,951969450,227282314
+India,11-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206659444,1984,1027405797,101,951969637,227284010
+India,12-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206661076,1632,1027405927,130,951969838,227285311
+India,13-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206662991,1915,1027406053,126,951970079,227286859
+India,14-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206664302,1311,1027406191,138,951970333,227287778
+India,15-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206664701,399,1027406254,63,951970468,227287979
+India,16-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206665720,1019,1027406363,109,951970795,227288562
+India,17-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206666633,913,1027406473,110,951971080,227289080
+India,18-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206667567,934,1027406598,125,951971379,227289590
+India,19-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206668544,977,1027406710,112,951971668,227290166
+India,20-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206669647,1103,1027406836,126,951972050,227290761
+India,21-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206670777,1130,1027406959,123,951972429,227291389
+India,22-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206671276,499,1027406997,38,951972646,227291633
+India,23-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206672631,1355,1027407116,119,951973103,227292412
+India,24-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206674131,1500,1027407240,124,951973511,227293380
+India,25-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206675684,1553,1027407380,140,951973866,227294438
+India,26-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206677058,1374,1027407502,122,951974305,227295251
+India,27-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206678402,1344,1027407631,129,951974653,227296118
+India,28-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206679740,1338,1027407858,227,951975120,227296762
+India,29-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206680457,717,1027407930,72,951975318,227297209
+India,30-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206682105,1648,1027408055,125,951975690,227298360
+India,31-05-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206683432,1327,1027408186,131,951976039,227299207
+India,01-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206684650,1218,1027408326,140,951976361,227299963
+India,02-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206684841,191,1027408430,104,,227300097
+India,03-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206685203,362,1027408538,108,951976387,227300278
+India,04-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206685701,498,1027408671,133,951976486,227300544
+India,05-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206685870,169,1027408716,45,951976528,227300626
+India,06-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206698880,13010,1027409573,857,951976774,227312533
+India,08-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206700691,1811,1027409844,271,951977041,227313806
+India,09-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206701590,899,1027410075,231,951977161,227314354
+India,10-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206702474,884,1027410249,174,951977348,227314877
+India,11-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206703190,716,1027410359,110,951977546,227315285
+India,12-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206703418,228,1027410402,43,951977588,227315428
+India,13-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206703842,424,1027410464,62,951977642,227315736
+India,14-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206704374,532,1027410591,127,951977713,227316070
+India,15-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206704828,454,1027410704,113,951977762,227316362
+India,16-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206705520,692,1027410828,124,951977959,227316733
+India,17-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206706199,679,1027410949,121,951978026,227317224
+India,18-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206706658,459,1027411089,140,951978113,227317456
+India,19-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206706830,172,1027411117,28,951978143,227317570
+India,20-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206707238,408,1027411234,117,951978203,227317801
+India,21-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206707577,339,1027411311,77,951978248,227318018
+India,22-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206707979,402,1027411403,92,951978301,227318275
+India,23-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206708393,414,1027411510,107,951978362,227318521
+India,24-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206708901,508,1027411619,109,951978499,227318783
+India,25-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206709397,496,1027411731,112,951978605,227319061
+India,26-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206709565,168,1027411774,43,951978648,227319143
+India,27-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206709961,396,1027411871,97,951978721,227319369
+India,28-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206710359,398,1027411980,109,951978789,227319590
+India,29-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206710758,399,1027412048,68,951978848,227319862
+India,30-06-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206711105,347,1027412132,84,951978918,227320055
+India,01-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206711549,444,1027412248,116,951978986,227320315
+India,02-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206711895,346,1027412316,68,951979039,227320540
+India,03-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206712127,232,1027412355,39,951979066,227320706
+India,04-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206712735,608,1027412451,96,951979111,227321173
+India,05-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206713591,856,1027412532,81,951979145,227321914
+India,06-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206714180,589,1027412614,82,951979186,227322380
+India,07-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206715005,825,1027412698,84,951979223,227323084
+India,08-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206715854,849,1027412791,93,951979282,227323781
+India,09-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206716406,552,1027412861,70,951979378,227324167
+India,10-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206716774,368,1027412895,34,951979400,227324479
+India,11-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206717428,654,1027412979,84,951979581,227324868
+India,12-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206718031,603,1027413054,75,951979899,227325078
+India,13-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206718939,908,1027413138,84,951980185,227325616
+India,14-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206719308,369,1027413239,101,951980254,227325815
+India,15-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206719758,450,1027413329,90,951980324,227326105
+India,16-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206720221,463,1027413423,94,951980435,227326363
+India,17-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206720381,160,1027413457,34,951980477,227326447
+India,18-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206720710,329,1027413556,99,951980513,227326641
+India,19-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206721233,523,1027413636,80,951980664,227326933
+India,20-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206721763,530,1027413709,73,951980893,227327161
+India,21-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206722234,471,1027413783,74,951981031,227327420
+India,22-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206722619,385,1027413861,78,951981088,227327670
+India,23-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206722950,331,1027413946,85,951981196,227327808
+India,24-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206723072,122,1027413973,27,951981209,227327890
+India,25-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206723493,421,1027414064,91,951981317,227328112
+India,26-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206724088,595,1027414134,70,951981465,227328489
+India,27-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206724574,486,1027414232,98,951981502,227328840
+India,28-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206724960,386,1027414303,71,951981530,227329127
+India,29-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206725380,420,1027414375,72,951981595,227329410
+India,30-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206725652,272,1027414450,75,951981666,227329536
+India,31-07-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206725772,120,1027414484,34,951981701,227329587
+India,01-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206726166,394,1027414575,91,951981756,227329835
+India,02-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206726495,329,1027414666,91,951981810,227330019
+India,03-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206726837,342,1027414764,98,951981857,227330216
+India,04-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206727193,356,1027414836,72,951981896,227330461
+India,05-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206727736,543,1027414987,151,951981997,227330752
+India,06-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206728111,375,1027415093,106,951982084,227330934
+India,07-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206728226,115,1027415122,29,951982113,227330991
+India,08-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206728512,286,1027415190,68,951982170,227331152
+India,10-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206729352,840,1027415342,152,951982289,227331721
+India,11-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206729780,428,1027415447,105,951982378,227331955
+India,12-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206730204,424,1027415517,70,951982433,227332254
+India,13-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206730432,228,1027415564,47,951982474,227332394
+India,14-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206730562,130,1027415596,32,951982505,227332461
+India,15-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206730932,370,1027415650,54,951982558,227332724
+India,16-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206731050,118,1027415677,27,951982584,227332789
+India,17-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206731565,515,1027415743,66,951982683,227333139
+India,18-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206732173,608,1027415801,58,951982726,227333646
+India,19-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206732967,794,1027415922,121,951982822,227334223
+India,20-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206733667,700,1027416011,89,951982961,227334695
+India,21-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206733896,229,1027416053,42,951983048,227334795
+India,22-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206734821,925,1027416155,102,951983210,227335456
+India,23-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206735941,1120,1027416290,135,951983573,227336078
+India,24-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206737105,1164,1027416400,110,951983905,227336800
+India,25-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206738985,1880,1027416486,86,951984141,227338358
+India,26-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206739251,266,1027416535,49,951984178,227338538
+India,27-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206739561,310,1027416599,64,951984303,227338659
+India,28-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206739657,96,1027416627,28,951984332,227338698
+India,29-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206739827,170,1027416683,56,951984365,227338779
+India,30-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206740053,226,1027416753,70,951984433,227338867
+India,31-08-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206740203,150,1027416795,42,951984472,227338936
+India,01-09-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206740419,216,1027416842,47,951984511,227339066
+India,02-09-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206740558,139,1027416880,38,951984534,227339144
+India,03-09-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206740582,24,1027416886,6,951984538,227339158
+India,04-09-2023,"Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V",https://dashboard.cowin.gov.in/,2206740693,111,1027416928,42,951984576,227339189
