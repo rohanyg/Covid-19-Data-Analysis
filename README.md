@@ -1,10 +1,6 @@
-# Covid-19_Data_Analysis
-COVID-19 Data Analysis Dashboard uses Power BI to analyse Covid-19 data and provide  valuable insights. The data is cleaned and transformed using Excel and Power Query Editor.  Dashboard is created with KPIs, Visualizations, filter and slicers to analyse the trends and  patterns associated with Covid-19 Data
-
-
-# COVID-19 Data Analysis
-
-Developed a Power BI dashboard for comprehensive COVID-19 data analysis, tracking cases, recoveries, and vaccination rates. The dashboard utilized Power Query and DAX queries for cleaning and transforming data. Implemented visualizations, measures, KPIs, and slicers, enabling deep insights. Identified trends, such as high recovery rates on weekends, aiding strategic resource allocation.
+# Covid-19 Data Analysis
+Designed a Power BI dashboard to track covid cases, deaths, vaccination rate and fatality rate. Utilized KPIs, visualizations, maps and slicers to explore trends and patterns associated with the pandemic data.
+This Dashboard helps in strategic healthcare resource allocation and data-driven pandemic management.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -15,13 +11,22 @@ Developed a Power BI dashboard for comprehensive COVID-19 data analysis, trackin
 - [Limitations](#limitations)
 
 ### Project Overview
-The COVID-19 Data Analysis Dashboard leverages Power BI, Power Query, and DAX Query for comprehensive insights into COVID-19 metrics. The project involved meticulous data cleaning and transformation, resulting in an intuitive dashboard aiding in strategic decision-making.
+The COVID-19 Data Analysis Dashboard uses Power BI to analyse trends, patterns and insights from COVID-19 data. This Dashboard helps to track covid cases, deaths, vaccination rate and fatality rate. My work involved data cleaning, transforming the data and creating visualizations to design the dashboard.This project helps in data-driven decision-making for resource allocation and strategic planning in times of health emergency.
 
 ### Business Task
-Analyze COVID-19 data to identify trends and patterns, enabling data-driven decision-making for resource allocation and strategic planning.
+To design a dashboard to track covid cases, deaths, vaccination rate and fatality rate in india and asia and To analyze COVID-19 data to identify trends and patterns over period of time.
 
 ### Data Sources
-COVID-19 Data: Utilized various reliable sources providing global and regional COVID-19 statistics, ensuring accurate and up-to-date information.
+
+COVID Data:
+[Download Dataset](https://ourworldindata.org/coronavirus)
+The datasets used for this analysis are: 
+- "owid-covid-data.csv"
+- "owid_covid_latest.csv"
+- "IndiaCovid.csv"
+- "weekly_cases.csv"
+- "weekly_deaths.csv"
+
 
 ### Data Cleaning/Preparation
 Initial data preparation involved:
@@ -29,16 +34,22 @@ Initial data preparation involved:
 - Data type standardization.
 - Eliminating duplicates.
 - Formatting dates and numerical data for consistency.
-- Ensuring accuracy and completeness.
+- Replaced the null values with the appropriate values.
+- Replaced blank values with zero.
+
+![Asia](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/f62177fb-6e11-42f1-aa05-a84d776d7d24)
+
+![India](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/f0d06752-b00b-4a32-8865-23fd86b18dd7)
+
+![India](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/617f7fc9-20da-4017-8af8-11211ea39d19)
 
 ### Result/Findings
 Key findings from the analysis:
-- Higher recovery rates observed post-vaccination drives, indicating vaccine efficacy.
-- Weekday case surges hint at potential workplace transmission, urging stricter safety protocols.
-- Regions with denser populations experienced more rapid virus spread, emphasizing targeted intervention needs.
-
+- Higher recovery rates observed post vaccination drives, indicating vaccine effect.
+- Regions with denser populations experienced more rapid virus spread.
+  
 ### Limitations 
-- Data limitations might obscure nuances in the analysis.
+
 - Complex socio-economic factors influence virus patterns beyond data scope.
 - Predictions are subject to evolving circumstances and external factors.
-- Prudent interpretation is vital to avoid misinformed decision-making.
+
