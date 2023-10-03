@@ -39,19 +39,24 @@ Initial data preparation involved:
 - Replaced blank values with zero.
 
 
-![Asia](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/f62177fb-6e11-42f1-aa05-a84d776d7d24)
-
-
 ![India](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/f0d06752-b00b-4a32-8865-23fd86b18dd7)
 
+![Asia](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/f62177fb-6e11-42f1-aa05-a84d776d7d24)
 
-![India](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/617f7fc9-20da-4017-8af8-11211ea39d19)
+![AsiaDemographics](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/0d59933c-e3bd-4c72-bb94-1ae44513e22f)
+
 
 
 ### Result/Findings
 Key findings from the analysis:
-- Higher recovery rates observed post vaccination drives, indicating vaccine effect.
-- Regions with denser populations experienced more rapid virus spread.
+
+- Regions with more populations experienced more corona virus cases.
+- India and many other countries had not fully vaccinated their entire populations.
+- Countries with highest cases also have recorded highest deaths.
+- Vaccines have proven to be highly effective in decreasing fatality rate. Countries with higher vaccination rates have shown a significant decline in the number of COVID-19 cases.
+- Regions with well-equipped and prepared healthcare systems have been more successful in managing COVID-19 patients, reducing mortality rates and ensuring adequate medical supplies.
+- Covid-19 spread depend on region demographics and socio-economic factors.
+
   
 ### Limitations 
 
