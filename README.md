@@ -7,6 +7,7 @@ This Dashboard helps in strategic healthcare resource allocation and data-driven
 - [Business Task](#business-task)
 - [Data Sources](#data-sources)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Live Dashboard](#live-dashboard)
 - [Result/Findings](#resultfindings)
 - [Limitations](#limitations)
 
@@ -38,6 +39,9 @@ Initial data preparation involved:
 - Replaced the null values with the appropriate values.
 - Replaced blank values with zero.
 
+### Live Dashboard
+
+https://app.powerbi.com/groups/me/reports/e1c76f60-0e35-4d6b-b39b-b6be569154f2/ReportSection?experience=power-bi
 
 ![India](https://github.com/rohanyg/Covid-19_Data_Analysis/assets/136742005/f0d06752-b00b-4a32-8865-23fd86b18dd7)
 
